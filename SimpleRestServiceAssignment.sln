@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRestServiceAssignment", "SimpleRestServiceAssignment\SimpleRestServiceAssignment.csproj", "{420001E8-A8A7-473A-A7BC-0223DC397611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookModelClass", "BookModelClass\BookModelClass.csproj", "{6C065DFB-C0BB-4313-9A8D-685916A09E82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{420001E8-A8A7-473A-A7BC-0223DC397611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420001E8-A8A7-473A-A7BC-0223DC397611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420001E8-A8A7-473A-A7BC-0223DC397611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420001E8-A8A7-473A-A7BC-0223DC397611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C065DFB-C0BB-4313-9A8D-685916A09E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C065DFB-C0BB-4313-9A8D-685916A09E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C065DFB-C0BB-4313-9A8D-685916A09E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C065DFB-C0BB-4313-9A8D-685916A09E82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F46856C-43D9-4621-8134-D1F8C553239D}
+	EndGlobalSection
+EndGlobal
